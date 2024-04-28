@@ -1,4 +1,4 @@
-# Emal-Sms-Spam-Classification
+# Email-Sms-Spam-Classification
 
 ML project on spam classification deplyed using streamlit,
 Multinomial-NB algo used to train with precision of 1.0, 
